@@ -1,0 +1,67 @@
+﻿Task 5 – Cybercrime Awareness
+
+
+PART B — STAY SAFE ONLINE: Prevention Checklist for College Students
+
+
+General Online Safety
+
+
+         Tip          ,            What to do
+1.
+	Use strong password
+	Use 18+ characters. Use a free password manager to save all passwords
+	2.
+	Enable 2FA
+	Have 2FA on Gmail ,LinkedIn ,GitHub , UPI app
+	3.
+	Do not click or use unverified link or account
+	Never click links in SMS, WhatsApp, or email from unknown senders 
+	4.
+	Use latest updates
+	Install latest app updates 
+	5.
+	Be cautious while using public wi-fi
+	Avoid using UPI, logging in bank accounts using public wifi
+	6.
+	Go through all app permissions before using it
+	Regularly check which apps have access to your camera, microphone, contacts
+	
+
+Financial / UPI Safety 
+
+
+        Tip                 What to do
+1.
+	Check bank SMS alerts immediately as well as regularly
+	If you see an unexpected debit alert of money withdrawl , call your bank's 24x7 helpline within the hour. 
+	2.
+	Set daily UPI transaction limits
+	In your bank or UPI app settings, set a daily transaction cap. 
+	3.
+	CRITICAL  Scanning QR
+	Make sure to verify the QR before using it
+	4.
+	Never share your OTP or PIN with anyone.
+	Ignore, block, and report the caller immediately.
+	
+
+
+
+Reporting Channels Save These Now 
+
+
+
+
+Option
+	
+
+	Where to use
+	National Cyber Crime Portal (cybercrime.gov.in)
+	
+
+	Report online fraud, phishing, fake calls, or cyber scams through the website
+	Helpline 1930
+	
+
+	Call immediately if money is at risk or already lost to try and stop the transaction
